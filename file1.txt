@@ -2,5 +2,9 @@ this is my sample org file
 using for team
 3rd line
 4th line
+<<<<<<< HEAD
 5th line added
 6th line
+=======
+5th line for PR request from feat_dev branch
+>>>>>>> b505da69db42dff7c8a8285ad0f8afb021ff499d
